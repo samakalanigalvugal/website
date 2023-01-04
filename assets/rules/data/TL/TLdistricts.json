@@ -1,0 +1,124 @@
+[ 
+    {
+        "districtid": "Kanyakumari",
+        "districtname" :"தமிழ்நாடு Kanyakumari",
+        "ENdistrictname" :"Kanyakumari",
+        "taluks" : 
+        [
+            {
+                "talukid": "Kalkulam",
+                "talukname" :"தமிழ்நாடு Kalkulam",
+                "villages" : 
+                [
+                    {
+                        "villageid": "Mathicode",
+                        "villagename" :"Mathicode",
+                        "offices":
+                        [
+                            {
+                                "officeid": "NoWater",
+                                "officename": "NoWater",
+                                "issue": "தண்ணீர் இல்லை",
+                                "address": "12121211"
+                            },
+                            {
+                                "officeid": "NoCurrent",
+                                "officename": "NoWater",
+                                "issue": "மின்னோட்டம் இல்லை",
+                                "address": "tryttrytrtry"
+                            },
+                            {
+                                "officeid": "RoadDamaged",
+                                "officename": "NoWater",
+                                "issue": "சாலை சேதமடைந்துள்ளது",
+                                "address": "12dfgdfgdfgfd121211"
+                            },
+                            {
+                                "officeid": "TrenchDamaged",
+                                "officename": "NoWater",
+                                "issue": "அகழி சேதமடைந்துள்ளது",
+                                "address": "xvbxvcbxvcbvcbv"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "talukid": "Killiyoor",
+                "talukname" :"Killiyoor",
+                "villages" : 
+                [
+                    {
+                        "villageid": "Mathicode",
+                        "villagename" :"Mathicode"
+                    }
+                ]
+            },
+            {
+                "talukid": "KanyakumariVilavancode",
+                "talukname" :"Kanyakumari Vilavancode",
+                "villages" : 
+                [
+                    {
+                        "villageid": "KanyakumariVilavancodeMathicode",
+                        "villagename" :"Kanyakumari Vilavancode Mathicode"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "districtid": "Nellai",
+        "districtname" :"Nellai",
+        "taluks" : 
+        [
+            {
+                "talukid": "NellaiKilliyoor",
+                "talukname" :"Nellai Killiyoor",
+                "villages" : 
+                [
+                    {
+                        "villageid": "NellaiMathicode",
+                        "villagename" :"Nellai Ambalathuvilai"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "districtid": "Chennai",
+        "districtname" :"Chennai",
+        "taluks" : 
+        [
+            {
+                "talukid": "ChennaiKilliyoor",
+                "talukname" :"Chennai Killiyoor",
+                "villages" : 
+                [
+                    {
+                        "villageid": "ChennaiMathicode",
+                        "villagename" :"Chennai Ambalathuvilai"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "districtid": "Coimbatore",
+        "districtname" :"Coimbatore",
+        "taluks" : 
+        [
+            {
+                "talukid": "CoimbatoreKilliyoor",
+                "talukname" :"Coimbatore Killiyoor",
+                "villages" : 
+                [
+                    {
+                        "villageid": "CoimbatoreMathicode",
+                        "villagename" :"Coimbatore Ambalathuvilai"
+                    }
+                ]
+            }
+        ]
+    }
+] 

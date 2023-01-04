@@ -1,0 +1,14 @@
+[ 
+    {
+        "stateid": "AN",
+        "statename":"Andaman and Nicobar"
+    },
+    {
+        "stateid": "AP",
+        "statename": "Andhra Pradesh"
+    },
+    {
+        "stateid": "TN",
+        "statename":"Tamil Nadu"
+    }
+] 

@@ -1,0 +1,22 @@
+[
+    {
+        "grievanceid": "NoWater",
+        "grievancename": "தண்ணீர் இல்லை"
+    },
+    {
+        "grievanceid": "NoCurrent",
+        "grievancename": "மின்னோட்டம் இல்லை"
+    },
+    {
+        "grievanceid": "RoadDamaged",
+        "grievancename": "சாலை சேதமடைந்துள்ளது"
+    },
+    {
+        "grievanceid": "TrenchDamaged",
+        "grievancename":"அகழி சேதமடைந்துள்ளது"
+    },
+    {
+        "grievanceid": "Patta",
+        "grievancename": "பட்டா"
+    }
+]

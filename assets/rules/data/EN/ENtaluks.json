@@ -1,0 +1,59 @@
+[ 
+    {
+        "talukid": "Kalkulam",
+        "ENtalukname" :"Kalkulam",
+        "villages" : 
+        [
+            {
+                "villageid": "Mathicode",
+                "TLvillagename" :"Mathicode",
+                "ENvillagename" :"Mathicode",
+                "offices":
+                [
+                    {
+                        "officeid": "NoWater",
+                        "issue": "தண்ணீர் இல்லை",
+                        "address": "12121211"
+                    },
+                    {
+                        "officeid": "NoCurrent",
+                        "issue": "மின்னோட்டம் இல்லை",
+                        "address": "tryttrytrtry"
+                    },
+                    {
+                        "officeid": "RoadDamaged",
+                        "issue": "சாலை சேதமடைந்துள்ளது",
+                        "address": "12dfgdfgdfgfd121211"
+                    },
+                    {
+                        "officeid": "TrenchDamaged",
+                        "issue": "அகழி சேதமடைந்துள்ளது",
+                        "address": "xvbxvcbxvcbvcbv"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "talukid": "Killiyoor",
+        "talukname" :"Killiyoor",
+        "villages" : 
+        [
+            {
+                "villageid": "Mathicode",
+                "villagename" :"Mathicode"
+            }
+        ]
+    },
+    {
+        "talukid": "Vilavancode",
+        "talukname" :"Vilavancode",
+        "villages" : 
+        [
+            {
+                "villageid": "KanyakumariVilavancodeMathicode",
+                "villagename" :"Kanyakumari Vilavancode Mathicode"
+            }
+        ]
+    }
+] 

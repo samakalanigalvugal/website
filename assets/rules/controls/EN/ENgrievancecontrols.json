@@ -1,0 +1,189 @@
+[
+    {
+        "language":"EN",
+        "pageinstructionheader" : "Provide your inputs",
+        "Controls" :
+        [
+            {
+                "display":"1",
+                "controltype": "dropdown",
+                "title":"Grievance",
+                "controlid": "ddlgrievance",
+                "required":"true",
+                "errormsg": "Please Select the type of your Grievance.",
+                "filecontentid":"grievanceid",
+                "filecontentname":"grievancename",
+                "controldatatype": "file",
+                "controldata":  "data/grievancelists.json"
+            },
+            {
+                "display":"1",
+                "controltype": "dropdown",
+                "title":"State",
+                "controlid": "ddlstate",
+                "required":"true",
+                "errormsg": "Please Select State.",
+                "parent" : "ddldistrict",
+                "controldatatype": "file",
+                "filecontentid":"stateid",
+                "filecontentname":"statename",
+                "controldata":  "data/states.json",
+                "haschild" : "1",
+                "childcontrolid" : "ddldistrict",
+                "childcontrolexternalfile" : "data/statedetails"
+            },
+            {
+                "display":"1",
+                "controltype": "dropdown",
+                "title":"District",
+                "controlid": "ddldistrict",
+                "required":"true",
+                "errormsg": "Please Select District.",
+                "parent" : "ddlstate",
+                "haschild" : "1",
+                "childcontrolid" : "ddltaluk",
+                "childcontrolexternalfile" : "data/statedetails"
+            },
+            {
+                "display":"1",
+                "controltype": "dropdown",
+                "title":"Taluk",
+                "controlid": "ddltaluk",
+                "required":"true",
+                "errormsg": "Please Select Taluk.",
+                "parent" : "ddlvillage",
+                "haschild" : "1",
+                "childcontrolid" : "ddlvillage",
+                "childcontrolexternalfile" : "data/statedetails"
+                
+            },
+            {
+                "display":"1",
+                "controltype": "dropdown",
+                "title":"Village",
+                "controlid": "ddlvillage",
+                "required":"true",
+                "errormsg": "Please Select Village.",
+                "parent" : "ddltaluk",
+                "haschild" : "0",
+                "childcontrolid" : "controlid",
+                "childcontrolexternalfile" : "data/statedetails"
+                
+            },
+            {
+                "display":"0",
+                "controltype": "dropdown",
+                "title":"Office",
+                "controlid": "ddloffice",
+                "required":"true",
+                "errormsg": "Please Select Office.",
+                "haschild" : "0",
+                "childcontrolid" : "controlid",
+                "childcontrolexternalfile" : "data/statedetails"
+                
+            },
+            {
+                "display":"1",
+                "controltype": "input",
+                "title":"My Name",
+                "controlid": "txtfromname",
+                "required":"true",
+                "errormsg": "Please Enter Name."
+            },
+            {
+                "display":"1",
+                "controltype": "input",
+                "title":"My House Number",
+                "controlid": "txtfromhousenumber",
+                "required":"true",
+                "errormsg": "Please Enter Your House Number."
+            },
+            {
+                "display":"1",
+                "controltype": "input",
+                "title":"My House Name",
+                "controlid": "txtfromhousename",
+                "required":"true",
+                "errormsg": "Please Enter Your House Name."
+            },
+            {
+                "display":"1",
+                "controltype": "input",
+                "title":"My Street Name",
+                "controlid": "txtfromstreetname",
+                "required":"true",
+                "errormsg": "Please Enter Your Street Name."
+            },
+            {
+                "display":"1",
+                "controltype": "input",
+                "title":"My City",
+                "controlid": "txtfromcity",
+                "required":"true",
+                "errormsg": "Please Enter Your City."
+            },
+            {
+                "display":"1",
+                "controltype": "input",
+                "title":"My Village",
+                "controlid": "txtfromvillagename",
+                "required":"true",
+                "errormsg": "Please Enter Your Village."
+            },
+            {
+                "display":"1",
+                "controltype": "input",
+                "title":"My Postal Name",
+                "controlid": "txtfrompostalname",
+                "required":"true",
+                "errormsg": "Please Enter Your Postal Name."
+            },
+            {
+                "display":"1",
+                "controltype": "input",
+                "title":"My District",
+                "controlid": "txtdistrictname",
+                "required":"true",
+                "errormsg": "Please Enter Your District."
+            },
+            {
+                "display":"1",
+                "controltype": "input",
+                "title":"My State",
+                "controlid": "txtfromstatename",
+                "required":"true",
+                "errormsg": "Please Enter Your State."
+            },
+            {
+                "display":"1",
+                "controltype": "input",
+                "title":"My Pincode",
+                "controlid": "txtfrompostalcode",
+                "required":"true",
+                "errormsg": "Please Enter Your Pincode."
+            },
+            {
+                "display":"1",
+                "controltype": "input",
+                "title":"Mobile Number",
+                "controlid": "txtmobilenumber",
+                "required":"true",
+                "errormsg": "Please Enter Your Mobile Number."
+            },
+            {
+                "display":"1",
+                "controltype": "input",
+                "title":"Email Address",
+                "controlid": "txtemailaddress",
+                "required":"false",
+                "errormsg": "Please Enter Your Email Address."
+            },
+            {
+                "display":"1",
+                "controltype": "button",
+                "title":"Generate",
+                "controlid": "generate"
+            }
+        ]
+    }
+]

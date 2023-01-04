@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+    <head>   
+        <style>
+            body{
+                margin: 0;
+                height: 100%;
+                font-size: 14px;
+                font-style: normal;
+            }
+            .title{
+                text-align: center;
+                display: block;
+                font-size: 15px;
+                font-style: italic;
+                font-weight: bold;
+            }
+            
+            .innerheader,.sirheader{
+                padding-left: 50px;
+            }
+            
+            .innercontent{
+                padding-left: 100px;
+            }
+            .subjectheader{
+                padding-left: 130px;
+            }
+            
+            .pettitioncontent{
+                padding-left: 160px;
+                text-align: justify;
+            }
+            .ippadikku
+            {
+                float:right;
+                padding-right: 50px;
+            }
+            .fromaddress, .toaddress
+            {
+                width: 100px;
+                padding-left: 100px;
+            }
+        </style>
+</head>   
+    <body>
+        <div class="content">
+     <span class="title">{title}</span></br></br>
+     <span class="innerheader">{fromheader}</span></br>
+     <p class="innercontent fromaddress">{fromaddress}</p></br>
+     <span class="innerheader">{toheader}</span></br>
+     <p class="innercontent toaddress">{toaddress}</p></br>
+     <span class="sirheader">{iyyaheader}</span></br>
+     <span class="subjectheader">{subject}</span></br>
+     <p class="innerheader">{maincontent}</p>
+     <span class="innerheader">{placedata}</span></br>
+     <span class="ippadikku">{ippadikkuheader}</span></br>
+     <span class="innerheader">{datedata}</span></br>
+     <span class="ippadikku">{ippadikkuname}</span></br></div>
+    </body>
+</html>

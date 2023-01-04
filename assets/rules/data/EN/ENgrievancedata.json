@@ -1,0 +1,83 @@
+[
+    {
+        "grievanceid": "NoWater",
+        "grievancename": "No Water",
+        "addresses": 
+        [
+            {
+                "TNKanyakumariKalkulamMathicode" : 
+                {
+                    "grievance_contents_file_name" : "data/contents/ENNoWater.txt",
+                    "subject":"6272878",
+                    "header" : "no water test no water test no water test no water test no water test no water test no water test no water test no water test no water test no water test no water test .",
+                    "toname" : "Respected Sir/Madam",
+                    "streetname" : "213 saddsfdaaadsf",
+                    "city" : "Mathicode",
+                    "postal" : "Thickanamcode",
+                    "district":"Kanyakumari",
+                    "postalcode":"6272878"
+                }
+            }
+        ],
+        "contentfilename" : "data/template/ENNoWater.txt",
+        "templatefilename" : "data/template/ENNoWater.txt"
+    },
+    {
+        "grievanceid": "NoCurrent",
+        "grievancename": "No Current",
+        "address": 
+        [
+            {
+                "TNKanyakumariKalkulamMathicode" : "NoCurrent"
+            }
+        ] 
+    },
+    {
+        "grievanceid": "RoadDamaged",
+        "grievancename": "Road Damaged",
+        "address": 
+        [
+            {
+                "TNKanyakumariKalkulamMathicode" : "RoadDamaged"
+            }
+        ]
+    },
+    {
+        "grievanceid": "TrenchDamaged",
+        "grievancename": "அகழி சேதமடைந்துள்ளது",
+        "address": 
+        [
+            {
+                "TNKanyakumariKalkulamMathicode": 
+                [
+                    {
+                        "streetname" : "213 saddsfdaaadsf",
+                        "city" : "Mathicode",
+                        "postal" : "Thickanamcode",
+                        "district":"Kanyakumari",
+                        "postalcode":"6272878"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "grievanceid": "Patta",
+        "grievancename": "Patta",
+        "address": 
+        [
+            {
+                "TNKanyakumariKalkulamMathicode": 
+                [
+                    {
+                        "streetname" : "213 saddsfdaaadsf",
+                        "city" : "Mathicode",
+                        "postal" : "Thickanamcode",
+                        "district":"Kanyakumari",
+                        "postalcode":"6272878"
+                    }
+                ]
+            }
+        ]
+    }
+]

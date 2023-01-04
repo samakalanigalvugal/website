@@ -1,0 +1,31 @@
+[
+    {
+        "languageid" : "select",
+        "languagevalue" : "--Select--",
+        "description" : "selecting default"
+    },{
+        "languageid" : "TL",
+        "languagevalue" : "தமிழ்(Tamil)",
+        "description" : "selecting tamil"
+    },
+    {
+        "languageid" : "EN",
+        "languagevalue" : "English",
+        "description" : "selecting english"
+    },
+    {
+        "languageid" : "ML",
+        "languagevalue" : "മലയാളം(Malayalam)",
+        "description" : "selecting malayalam"
+    },
+    {
+        "languageid" : "KN",
+        "languagevalue" : "ಕನ್ನಡ(Kannada)",
+        "description" : "selecting kannada"
+    },
+    {
+        "languageid" : "TLG",
+        "languagevalue" : "తెలుగు(Telugu)",
+        "description" : "selecting Telugu"
+    }
+]

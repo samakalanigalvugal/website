@@ -1,0 +1,14 @@
+[
+    {
+        "officeid" : "villageoffice",
+        "officename" : "கிராம அலுவலர்"
+    },
+    {
+        "officeid" : "panchayatoffice",
+        "officename" : "பஞ்சாயத்து தலைவர்"
+    },
+    {
+        "officeid" : "eboffice",
+        "officename" : "மின்னிணைப்பு அலுவலர்"
+    }
+]

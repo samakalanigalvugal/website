@@ -1,0 +1,42 @@
+[
+    
+    {
+        "starting" : "Health",
+        "imagename" : "",
+        "filename" : "The Panacea Cleanse.pdf",
+        "fileauthor" : "Nathen Crane",
+        "filepath" : "assets/archives/docs/",
+        "filetitle" : "The Panacea Cleanse",
+        "fileclassified" : "Classified : Wealth"
+    },
+    {
+        "imagename" : "",
+        "filename" : "img_avatar5.png",
+        "filepath" : "assets/archives/docs/",
+        "fileauthor" : "Nathen Crane",
+        "filetitle" : "ENCJM",
+        "fileclassified" : "Classified : Law",
+        "filetype" : ".pdf",
+        "ending" : "1"
+    },
+    {
+        "starting" : "Law",
+        "imagename" : "",
+        "filename" : "img_avatar6.png",
+        "filepath" : "assets/archives/docs/",
+        "fileauthor" : "Nathen Crane",
+        "filetitle" : "ENCJM",
+        "fileclassified" : "Classified : Law",
+        "filetype" : ".pdf"
+    },
+    {
+        "imagename" : "img_avatar2.png",
+        "filename" : "img_avatar2.png",
+        "fileauthor" : "Nathen Crane",
+        "filepath" : "assets/archives/docs/",
+        "filetitle" : "ENCJM",
+        "fileclassified" : "Classified : Law",
+        "filetype" : ".pdf",
+        "ending" : "1"
+    }
+]

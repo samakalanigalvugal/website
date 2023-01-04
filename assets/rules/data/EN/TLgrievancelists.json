@@ -1,0 +1,22 @@
+[
+    {
+        "grievanceid": "NoWater",
+        "grievancename":"No Water"
+    },
+    {
+        "grievanceid": "NoCurrent",
+        "grievancename": "No Electrcity" 
+    },
+    {
+        "grievanceid": "RoadDamaged",
+        "grievancename": "Road Damaged"
+    },
+    {
+        "grievanceid": "TrenchDamaged",
+        "grievancename":  "Trench Damaged"
+    },
+    {
+        "grievanceid": "Patta",
+        "grievancename":  "Patta Issue"
+    }
+]

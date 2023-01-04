@@ -1,0 +1,12 @@
+{
+    "smtp": "ssl.smtp.gmail.com",
+    "smtp_port":"465",
+    "sendmail_from": "samakalanigalvugal@gmail.com",
+    "sendmail_name": "Samakala Nigalvugal",
+    "bcc": "samakalanigalvugal@gmail.com;samakalanigalvugal@gmail.com",
+    "sendmail_path":"C:\\xampp\\sendmail\\sendmail.exe -t",
+    "auth_username": "samakalanigalvugal@gmail.com",
+    "auth_password": "#password11#",
+    "success_message": "Message sent successfully...",
+    "failure_message": "Message could not be sent..."
+}

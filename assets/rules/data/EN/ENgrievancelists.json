@@ -1,0 +1,42 @@
+[
+    {
+        "grievanceid": "NoWater",
+        "grievancename": 
+        {
+            "TL" :"தண்ணீர் இல்லை",
+            "EN" : "No Water"
+        }
+    },
+    {
+        "grievanceid": "NoCurrent",
+        "grievancename": 
+        {
+            "TL" : "மின்னோட்டம் இல்லை",
+            "EN" : "No Electrcity" 
+        }
+    },
+    {
+        "grievanceid": "RoadDamaged",
+        "grievancename": 
+        {
+            "TL":"சாலை சேதமடைந்துள்ளது",
+            "EN" : "Road Damaged"
+        }
+    },
+    {
+        "grievanceid": "TrenchDamaged",
+        "grievancename": 
+        {
+            "TL":"அகழி சேதமடைந்துள்ளது",
+            "EN" : "Trench Damaged"
+        }
+    },
+    {
+        "grievanceid": "Patta",
+        "grievancename": 
+        {
+            "TL":"பட்டா",
+            "EN" : "Patta Issue"
+        }
+    }
+]

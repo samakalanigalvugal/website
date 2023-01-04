@@ -1,0 +1,47 @@
+{
+    "assetspath":"assets/",
+    "rulespath":"assets/rules/",
+    "datapath":"assets/rules/data/",
+    "defaultlanguageid": "EN",
+    "defaultlanguagename": "EN",
+
+    "nodatafoundid": "select",
+    "TLnodatafoundvalue": "தரவு இல்லை",
+    "ENnodatafoundvalue" : "No data found",
+
+    "defaultid": "select",
+    "TLdefaultvalue": "--தேர்ந்தெடுக்கவும்--",
+    "ENdefaultvalue": "--Select--",
+    
+    
+    "TLpopupthankyou":"தாங்கள் <b class='popupbrand'>Samakala Nigalvugal</b> - உடன் இணைந்ததற்கு நன்றி.",
+    "ENpopupthankyou":"Thank you for being part of our <b class='popupbrand'>Samakala Nigalvugal</b> family.",
+    
+    "TLpopupdownload":"பதிவிறக்கம் செய்யவும்!",
+    "ENpopupdownload":"Download your Grievance!",
+    
+    "TLpopuperror":"ஏதோ தவறு நடைபெற்றிருக்கிறது. தயவு செய்து பிறகு மீண்டும் முயற்சிக்கவும்.",
+    "ENpopuperror":"Something went wrong. Please try after sometimes.",
+
+
+    "TLfontfamily" : "BaminiPlain",
+    "TLfontfamily_filename" : "Bamini_Plain.php",
+    "TLfromheader" : "அனுப்புனர்",
+    "TLtoheader" : "அனுப்புனர்",
+    "TLiyyaheader":"அரசு அதிகாரி அவர்களுக்கு,",
+    "TLsubjectheader":"பொருள்",
+    "TLplaceheader":"இடம்",
+    "TLdateheader":"நாள்",
+    "TLippadikkuheader":"இந்திய குடியரசர்",
+
+    "ENfontfamily" : "Courier",
+    "ENfontfamily_filename" : "courier.php",
+    "ENfromheader" : "From",
+    "ENtoheader" : "To",
+    "ENiyyaheader":"Sir,",
+    "ENsubjectheader":"Subject",
+    "ENplaceheader":"Place",
+    "ENdateheader":"Date",
+    "ENippadikkuheader":"Republican"
+    
+}

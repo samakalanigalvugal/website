@@ -1,0 +1,398 @@
+[ 
+    {
+        "stateid": "AN",
+        "TLstatename": "அந்தமான் & நிக்கோபார் (Andaman and Nicobar)",
+        "districts" : 
+        [
+            {
+                "districtid": "Ariyalur",
+                "TLdistrictname" :"Ariyalur",
+                "ENdistrictname" :"Ariyalur",
+                "taluks" : 
+                [
+                    {
+                        "talukid": "t1",
+                        "TLtalukname" :"t1",
+                        "villages" : 
+                        [
+                            {
+                                "villageid": "Ariyalur",
+                                "TLvillagename" :"Ariyalur"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "districtid": "Chengalpattu",
+                "TLdistrictname" :"Chengalpattu",
+                "ENdistrictname" :"Chengalpattu",
+                "taluks" : 
+                [
+                    {
+                        "talukid": "Ariyalur1",
+                        "TLtalukname" :"Ariyalur",
+                        "villages" : 
+                        [
+                            {
+                                "villageid": "Ariyalur",
+                                "TLvillagename" :"Ariyalur"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "districtid": "Chennai",
+                "TLdistrictname" :"Chennai",
+                "ENdistrictname" :"Chennai",
+                "taluks" : 
+                [
+                    {
+                        "talukid": "Ariyalur2",
+                        "TLtalukname" :"Ariyalur",
+                        "villages" : 
+                        [
+                            {
+                                "villageid": "Ariyalur",
+                                "TLvillagename" :"Ariyalur"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "districtid": "Coimbatore",
+                "TLdistrictname" :"Coimbatore",
+                "ENdistrictname" :"Coimbatore",
+                "taluks" : 
+                [
+                    {
+                        "talukid": "Ariyalur3",
+                        "TLtalukname" :"Ariyalur",
+                        "villages" : 
+                        [
+                            {
+                                "villageid": "Ariyalur",
+                                "TLvillagename" :"Ariyalur"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "districtid": "Kanyakumari",
+                "TLdistrictname" :"Kanyakumari",
+                "ENdistrictname" :"Kanyakumari",
+                "taluks" : 
+                [
+                    {
+                        "talukid": "Ariyalur4",
+                        "TLtalukname" :"Ariyalur",
+                        "villages" : 
+                        [
+                            {
+                                "villageid": "Ariyalur",
+                                "TLvillagename" :"Ariyalur",
+                                "offices":
+                                [
+                                    {
+                                        "officeid": "NoWater",
+                                        "issue": "தண்ணீர் இல்லை",
+                                        "address": "12121211"
+                                    },
+                                    {
+                                        "officeid": "NoCurrent",
+                                        "issue": "மின்னோட்டம் இல்லை",
+                                        "address": "tryttrytrtry"
+                                    },
+                                    {
+                                        "officeid": "RoadDamaged",
+                                        "issue": "சாலை சேதமடைந்துள்ளது",
+                                        "address": "12dfgdfgdfgfd121211"
+                                    },
+                                    {
+                                        "officeid": "TrenchDamaged",
+                                        "issue": "அகழி சேதமடைந்துள்ளது",
+                                        "address": "xvbxvcbxvcbvcbv"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+    "stateid": "AP",
+    "TLstatename": " ஆந்திரப் பிரதேசம் (Andhra Pradesh)"
+    },
+    {
+    "stateid": "AR",
+    "TLstatename": "அருணாசலப் பிரதேசம் (Arunachal Pradesh)"
+    },
+    {
+    "stateid": "AS",
+    "TLstatename": "அஸ்ஸாம் (Assam)"
+    },
+    {
+    "stateid": "BR",
+    "TLstatename": "பீகார் (Bihar)"
+    },
+    {
+    "stateid": "CG",
+    "TLstatename": "சண்டிகார் (Chandigarh)"
+    },
+    {
+    "stateid": "CH",
+    "TLstatename": "சட்டிஸ்கர் (Chhattisgarh)"
+    },
+    {
+    "stateid": "DH",
+    "TLstatename": "தாதர் & நாகர் ஹாவேலி (Dadar and Nagar Haveli)"
+    },
+    {
+    "stateid": "DD",
+    "TLstatename": "டாமன் &டையு (Daman and Diu)"
+    },
+    {
+    "stateid": "DL",
+    "TLstatename": "டெல்லி (Delhi)"
+    },
+    {
+    "stateid": "GA",
+    "TLstatename": "கோவா (Goa)"
+    },
+    {
+    "stateid": "GJ",
+    "TLstatename": "குஜராத் (Gujarat)"
+    },
+    {
+    "stateid": "HR",
+    "TLstatename": "ஹரியானா (Haryana)"
+    },
+    {
+    "stateid": "HP",
+    "TLstatename": "ஹிமாசல பிரதேசம் (Himachal Pradesh)"
+    },
+    {
+    "stateid": "JK",
+    "TLstatename": "ஜம்மு & காஷ்மீர் (Jammu and Kashmir))"
+    },
+    {
+    "stateid": "JH",
+    "TLstatename": "ஜார்கண்ட் (Jharkhand)"
+    },
+    {
+    "stateid": "KA",
+    "TLstatename": "கர்நாடகா (Karnataka)"
+    },
+    {
+    "stateid": "KL",
+    "TLstatename": "கேரளா (Kerala)"
+    },
+    {
+    "stateid": "LD",
+    "TLstatename": "லட்சத்தீவு (Lakshadweep))"
+    },
+    {
+    "stateid": "MP",
+    "TLstatename": "மத்திய பிரதேசம் (Madhya Pradesh)"
+    },
+    {
+    "stateid": "MH",
+    "TLstatename": "மகாராஷ்டிரா (Maharashtra)"
+    },
+    {
+    "stateid": "MN",
+    "TLstatename": "மணிப்பூர் (Manipur)"
+    },
+    {
+    "stateid": "ML",
+    "TLstatename": "மேகாலயா (Meghalaya)"
+    },
+    {
+    "stateid": "MZ",
+    "TLstatename": "மிசோராம் (Mizoram)"
+    },
+    {
+    "stateid": "NL",
+    "TLstatename": "நாகலாந்து (Nagaland)"
+    },
+    {
+    "stateid": "OR",
+    "TLstatename": "ஒடிஸா (Odisha)"
+    },
+    {
+    "stateid": "PY",
+    "TLstatename": "புதுச்சேரி (Puducherry))"
+    },
+    {
+    "stateid": "PB",
+    "TLstatename": "பஞ்சாப் (Punjab"
+    },
+    {
+    "stateid": "RJ",
+    "TLstatename": "ராஜஸ்தாந் (Rajasthan)"
+    },
+    {
+    "stateid": "SK",
+    "TLstatename": "சிக்கிம் (Sikkim)"
+    },
+    {
+        "stateid": "TN",
+        "TLstatename": "தமிழ்நாடு (Tamil Nadu)",
+        "ENstatename": "Tamil Nadu",
+        "districts" : 
+        [
+            {
+                "districtid": "Kanyakumari",
+                "TLdistrictname" :"தமிழ்நாடு Kanyakumari",
+                "ENdistrictname" :"Kanyakumari",
+                "taluks" : 
+                [
+                    {
+                        "talukid": "Kalkulam",
+                        "TLtalukname" :"தமிழ்நாடு Kalkulam",
+                        "ENtalukname" :"Kalkulam",
+                        "villages" : 
+                        [
+                            {
+                                "villageid": "Mathicode",
+                                "TLvillagename" :"தமிழ்நாடு Mathicode",
+                                "ENvillagename" :"Mathicode",
+                                "offices":
+                                [
+                                    {
+                                        "officeid": "NoWater",
+                                        "issue": "தண்ணீர் இல்லை",
+                                        "address": "12121211"
+                                    },
+                                    {
+                                        "officeid": "NoCurrent",
+                                        "issue": "மின்னோட்டம் இல்லை",
+                                        "address": "tryttrytrtry"
+                                    },
+                                    {
+                                        "officeid": "RoadDamaged",
+                                        "issue": "சாலை சேதமடைந்துள்ளது",
+                                        "address": "12dfgdfgdfgfd121211"
+                                    },
+                                    {
+                                        "officeid": "TrenchDamaged",
+                                        "issue": "அகழி சேதமடைந்துள்ளது",
+                                        "address": "xvbxvcbxvcbvcbv"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "talukid": "Killiyoor",
+                        "TLtalukname" :" தமிழ்நாடு Killiyoor",
+                        "ENtalukname" :"Killiyoor",
+                        "villages" : 
+                        [
+                            {
+                                "villageid": "Mathicode",
+                                "TLvillagename" :"Mathicode"
+                            }
+                        ]
+                    },
+                    {
+                        "talukid": "KanyakumariVilavancode",
+                        "TLtalukname" :"தமிழ்நாடு Kanyakumari Vilavancode",
+                        "ENtalukname" :"Killiyoor",
+                        "villages" : 
+                        [
+                            {
+                                "villageid": "KanyakumariVilavancodeMathicode",
+                                "TLvillagename" :"Kanyakumari Vilavancode Mathicode"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "districtid": "Nellai",
+                "TLdistrictname" :"தமிழ்நாடு Nellai",
+                "ENdistrictname" :"Nellai",
+                "taluks" : 
+                [
+                    {
+                        "talukid": "NellaiKilliyoor",
+                        "TLtalukname" :"தமிழ்நாடு Nellai Killiyoor",
+                        "ENtalukname" :"Killiyoor",
+                        "villages" : 
+                        [
+                            {
+                                "villageid": "NellaiMathicode",
+                                "TLvillagename" :"Nellai Ambalathuvilai"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "districtid": "Chennai",
+                "TLdistrictname" :"தமிழ்நாடு Chennai",
+                "ENdistrictname" :"Chennai",
+                "taluks" : 
+                [
+                    {
+                        "talukid": "ChennaiKilliyoor",
+                        "TLtalukname" :"தமிழ்நாடு Chennai Killiyoor",
+                        "ENtalukname" :"Killiyoor",
+                        "villages" : 
+                        [
+                            {
+                                "villageid": "ChennaiMathicode",
+                                "TLvillagename" :"Chennai Ambalathuvilai"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "districtid": "Coimbatore",
+                "TLdistrictname" :"Coimbatore",
+                "taluks" : 
+                [
+                    {
+                        "talukid": "CoimbatoreKilliyoor",
+                        "TLtalukname" :"தமிழ்நாடு Coimbatore Killiyoor",
+                        "ENtalukname" :"Killiyoor",
+                        "villages" : 
+                        [
+                            {
+                                "villageid": "CoimbatoreMathicode",
+                                "TLvillagename" :"Coimbatore Ambalathuvilai"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+    "stateid": "TS",
+    "TLstatename": "தெலங்கானா (Telangana)"
+    },
+    {
+    "stateid": "TR",
+    "TLstatename": "திரிபுரா (Tripura)"
+    },
+    {
+    "stateid": "UK",
+    "TLstatename": "உத்தரகாண்ட் (Uttarakhand)"
+    },
+    {
+    "stateid": "UP",
+    "TLstatename": "உத்தரப்பிரதேசம் (Uttar Pradesh)"
+    },
+    {
+    "stateid": "WB",
+    "TLstatename": "மேற்கு வங்கம் (West Bengal)"
+    }
+] 
